@@ -21,5 +21,5 @@ FoodRecipe uygulaması kullanıcıların uygulamaya kayıt olup yemek tarifleri 
 https://user-images.githubusercontent.com/102794695/229596771-f638a325-f302-4985-b311-f59aa88d4779.mp4
 
 
-[ProjeDetayıFoodRecipe.docx](https://github.com/EmanuelaIbra/FoodRecipe/files/11141395/ProjeDetayiFoodRecipe.docx)
+
 
